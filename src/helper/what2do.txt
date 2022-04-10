@@ -1,0 +1,9 @@
+1. create aa array of movie state in app.js
+create a finction that receice the movie and add to the collecton list #1
+pass the function #2 down to the custo card component and receive as props
+invoke the function , #3, trigger on button click and pass paramater wither "Happy" or "lazy"
+#2 fucntion will receive the arfument happpy or lazy and add 
+Now add that to the property ie. category
+Push the movie object to the collection #1
+ceate a componet that will list the movie re use 
+
